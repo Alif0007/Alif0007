@@ -10,7 +10,7 @@
 I'm a passionate full-stack developer from Bangladesh with expertise in modern web technologies. I love building user-friendly applications that solve real-world problems. Currently focused on mastering the MERN stack and exploring new technologies.
 
 ## 💼 Currently
-- 🔭 I’m working on **BookShelf** - A Book Libary service platform with CRUD operation
+- 🔭 I’m working on **BookShelf** - A Book Libary service platform with CRUD operation (https://golden-peony-a77558.netlify.app/)
 - 🌱 I’m learning **Node.js, Express.js, and MongoDB**
 - 👯 I’m looking to collaborate on **open source projects**
 - 💬 Ask me about **React, Firebase, JavaScript**
