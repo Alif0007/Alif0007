@@ -1,5 +1,6 @@
 <!-- Banner Image -->
-![MERN Stack Banner](https://raw.githubusercontent.com/your-username/your-username/main/mern-banner.png)
+![Banner](https://camo.githubusercontent.com/f40438723bb346bf6ed3bdf8cf479c5fdc1959dccce07e8468cd6b462421699a/68747470733a2f2f646576656c6f706572677572752e696e2f64617461312f696d616765732f6d65726e2d737461636b2e706e67)
+
 <!-- Name & Designation -->
 # Hi there, I'm Al Amin Alif 👋
 ### Full Stack Web Developer |  React • Node.js • MongoDB 
